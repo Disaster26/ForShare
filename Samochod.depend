@@ -1,0 +1,29 @@
+# depslib dependency file v1.0
+1585790427 source:c:\users\lukas\documents\zlecenie-29-12\lista7\samochod\main.cpp
+	<iostream>
+	"Samochod.h"
+
+1585789574 c:\users\lukas\documents\zlecenie-29-12\lista7\samochod\samochod.h
+	"Marka.h"
+	"Szybkosc.h"
+	<iostream>
+	<string>
+	<sstream>
+
+1585789961 c:\users\lukas\documents\zlecenie-29-12\lista7\samochod\marka.h
+	<string>
+
+1585789972 c:\users\lukas\documents\zlecenie-29-12\lista7\samochod\szybkosc.h
+	<string>
+
+1585790029 source:c:\users\lukas\documents\zlecenie-29-12\lista7\samochod\samochod.cpp
+	<sstream>
+	<iostream>
+	"Samochod.h"
+
+1585789938 source:c:\users\lukas\documents\zlecenie-29-12\lista7\samochod\marka.cpp
+	"Marka.h"
+
+1585789982 source:c:\users\lukas\documents\zlecenie-29-12\lista7\samochod\szybkosc.cpp
+	"Szybkosc.h"
+
